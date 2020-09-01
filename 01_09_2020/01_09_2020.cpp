@@ -10,4 +10,5 @@ int main()
         std::cout << "you are an adult\n";
     else
         std::cout << "You are a teenager\n";
+
 }
