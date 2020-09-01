@@ -1,8 +1,13 @@
+
 #include <iostream>
 
 int main()
 {
     int age;
-    std::cin >> 
-    std::cout << "Hello World!\n";
+    std::cout << "What is your age?\n";
+    std::cin >> age;
+    if (age > 19)
+        std::cout << "you are an adult\n";
+    else
+        std::cout << "You are a teenager\n";
 }
