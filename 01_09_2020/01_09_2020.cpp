@@ -1,10 +1,4 @@
-
 #include <iostream>
-
-/*         _   
-       .__(.)< (MEOW)
-        \___)
-*/
 
 int main()
 {
@@ -15,5 +9,8 @@ int main()
         std::cout << "you are an adult\n";
     else
         std::cout << "You are a teenager\n";
-
 }
+/*    _
+  .__(.)< (MEOW)
+   \___)
+*/
