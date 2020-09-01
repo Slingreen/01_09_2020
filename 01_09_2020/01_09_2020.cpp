@@ -1,6 +1,11 @@
 
 #include <iostream>
 
+/*         _   
+       .__(.)< (MEOW)
+        \___)
+*/
+
 int main()
 {
     int age;
